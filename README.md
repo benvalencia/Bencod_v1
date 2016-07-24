@@ -1,2 +1,2 @@
 #BENCOD
-www.bencod.pe.hu
+<a src="www.bencod.pe.hu" target="_blank"></a>
