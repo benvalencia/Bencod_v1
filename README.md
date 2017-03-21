@@ -1,4 +1,4 @@
 # Bencod
 Go to the Official WebSite
-#Link
+# Link
 www.bencod.pe.hu
