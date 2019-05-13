@@ -4,4 +4,4 @@ Link of the WebPage [View WebPage On GitHub](https://becod.github.io/Bencod-1st)
 Link of Behance [View WebDesign On Behance](https://www.behance.net/gallery/49342251/BENCOD-Website)
 <br>
 # WebPage Preview
-![Bencod WebPage](https://becod.github.io/Bencod-1st/img/bencod-website.png)
+![Bencod WebPage](https://benvalencia.github.io/Bencod-1st/img/bencod-website.png)
